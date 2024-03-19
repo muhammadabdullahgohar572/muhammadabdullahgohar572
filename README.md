@@ -8,6 +8,7 @@ I'm a passionate DevOps Engineer with expertise in a variety of technologies inc
 
 ## 🚀 Skills
 
+
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple?style=flat-square&logo=bootstrap)
@@ -30,6 +31,7 @@ I'm a passionate DevOps Engineer with expertise in a variety of technologies inc
 ![Java](https://img.shields.io/badge/Java-Intermediate-red?style=flat-square&logo=java)
 ![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-blue?style=flat-square&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-orange?style=flat-square&logo=adobe-illustrator)
+
 
 ## 💼 Experience
 
