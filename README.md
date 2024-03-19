@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm [MuhammadAbdullahGohar]
 
-![Header Image](link_to_your_header_image)
+
 
 I'm a passionate DevOps Engineer with expertise in a variety of technologies including HTML, CSS, JavaScript, React, MongoDB, and more. I enjoy building scalable and efficient solutions, and I'm always eager to learn and adapt to new technologies.
 
@@ -38,23 +38,15 @@ I'm a passionate DevOps Engineer with expertise in a variety of technologies inc
   - Collaborated with cross-functional teams to optimize application performance and scalability.
   - Implemented monitoring and logging solutions for better visibility and troubleshooting.
 
-## 🌱 Projects
 
-### [Project Name 1](link_to_project_1)
-![Project 1 Screenshot](link_to_project_1_screenshot)
 
-Brief description of Project 1.
 
-### [Project Name 2](link_to_project_2)
-![Project 2 Screenshot](link_to_project_2_screenshot)
-
-Brief description of Project 2.
 
 ## 📫 Get in Touch
 
-- GitHub: [Your GitHub Profile](link_to_your_github_profile)
-- LinkedIn: [Your LinkedIn Profile](link_to_your_linkedin_profile)
-- Website: [Your Personal Website](link_to_your_personal_website)
+- GitHub: [GitHub Profile](https://github.com/muhammadabdullahgohar572)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-abdullah-gohar-44b7502a2/)
+- Website: [This Is a website Link](https://mabdullahm14.netlify.app/)
 
 ## 🎨 Portfolio
 
