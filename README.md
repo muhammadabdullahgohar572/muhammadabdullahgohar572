@@ -21,7 +21,8 @@
 
  
  </a> <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mobirise_4_Official_Logo.png/800px-Mobirise_4_Official_Logo.png" rel="noreferrer"> <img src="https://kinlane-productions2.s3.amazonaws.com/postman/logo-glyph.png" alt="typescript" width="40" height="40"/> </a>
-<a href="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" rel="noreferrer"> <img src="https://kinlane-productions2.s3.amazonaws.com/postman/logo-glyph.png" alt="typescript" width="40" height="40"/> </a>
+ 
+<a href="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="typescript" width="40" height="40"/> </a>
 
 <a href="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" rel="noreferrer"> <img 
                                                                                              src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="typescript" width="40" height="40"/> </a>
