@@ -21,7 +21,7 @@
 <a href="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" rel="noreferrer"> <img                        src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" rel="noreferrer"> <img                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"alt="typescript" width="40" height="40"/></a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" rel="noreferrer"> <img                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" width="40" height="40"/></a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" rel="noreferrer"> <img                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="40" height="40"/></a>
 
 
 
