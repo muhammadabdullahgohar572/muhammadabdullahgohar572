@@ -101,7 +101,7 @@
         rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png"
             width="40" height="40" /></a> 
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTus6g1x2K51w_nef-4y30X5lag-_K_44bTQw&s" width="100" height="100"/></a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTus6g1x2K51w_nef-4y30X5lag-_K_44bTQw&s" width="40" height="40"/></a>
 </p>
 
 
