@@ -21,8 +21,6 @@
 <a href="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" rel="noreferrer"> <img                        src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" rel="noreferrer"> <img                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"alt="typescript" width="40" height="40"/></a>
-
-
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" rel="noreferrer"> <img                        src="https://vitejs.dev/logo.svg" width="40" height="40"/></a>
 
 
