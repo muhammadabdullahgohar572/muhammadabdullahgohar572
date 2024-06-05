@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadabdullahgohar572&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabdullahgohar572" /> </p>
 
-- 🌱 I’m currently learning **laravel**
+
 
 - 👨‍💻 All of my projects are available at [mabdullahm15.netlify.app/](mabdullahm15.netlify.app/)
 
@@ -118,7 +118,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabdullahgohar572&show_icons=true&locale=en&layout=compact" alt="muhammadabdullahgohar572" /></p>
-
+<br/>
+<br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadabdullahgohar572&show_icons=true&locale=en" alt="muhammadabdullahgohar572" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullahgohar572&" alt="muhammadabdullahgohar572" /></p>
