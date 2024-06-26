@@ -108,6 +108,8 @@
 <a href="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" rel="noreferrer"> 
     <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="typescript" width="70" height="70" /> 
 </a>
+//////////
+<br/><br/>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo
 
 >
