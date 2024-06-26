@@ -110,13 +110,8 @@
 </a>
 
 <br/><br/>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo
-/>
-<br/><br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabdullahgohar572&show_icons=true&locale=en&layout=compact" alt="muhammadabdullahgohar572" /></p>
- 
 
-<br/><br/><br/><br/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabdullahgohar572&show_icons=true&locale=en&layout=compact" alt="muhammadabdullahgohar572" /></p>
 <br/><br/>
