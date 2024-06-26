@@ -95,10 +95,10 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="70" height="70" /> 
 </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="70" height="70" /> 
+////////
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70" /> 
 </a> 
-
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://kinlane-productions2.s3.amazonaws.com/postman/logo-glyph.png" alt="typescript" width="70" height="70" /> 
 </a>
